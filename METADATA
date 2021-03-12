@@ -6,16 +6,16 @@ description:
 third_party {
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-com#com.google.firebase:firebase-common:19.5.0"
+    value: "https://maven.google.com/web/index.html?q=firebase-common#com.google.firebase:firebase-common:19.5.0"
 
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-compone#com.google.firebase:firebase-components:16.1.0"
+    value: "https://maven.google.com/web/index.html?q=firebase-components#com.google.firebase:firebase-components:16.1.0"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-en#com.google.firebase:firebase-encoders:16.1.0"
+    value: "https://maven.google.com/web/index.html?q=firebase-encoders#com.google.firebase:firebase-encoders:16.1.0"
   }
   url {
     type: ARCHIVE
@@ -23,35 +23,35 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-iid-in#com.google.firebase:firebase-iid-interop:17.0.0"
+    value: "https://maven.google.com/web/index.html?q=firebase-iid-interop#com.google.firebase:firebase-iid-interop:17.0.0"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-install#com.google.firebase:firebase-installations:16.3.5"
+    value: "https://maven.google.com/web/index.html?q=firebase-installations#com.google.firebase:firebase-installations:16.3.5"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-install#com.google.firebase:firebase-installations-interop:16.0.1"
+    value: "https://maven.google.com/web/index.html?q=firebase-installations-interop#com.google.firebase:firebase-installations-interop:16.0.1"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=firebase-messag#com.google.firebase:firebase-messaging:21.0.1"
+    value: "https://maven.google.com/web/index.html?q=firebase-messaging#com.google.firebase:firebase-messaging:21.0.1"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=play-services-ba#com.google.android.gms:play-services-basement:17.5.0"
+    value: "https://maven.google.com/web/index.html?q=play-services-basement#com.google.android.gms:play-services-basement:17.5.0"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=play-services-cloud#com.google.android.gms:play-services-cloud-messaging:16.0.0"
+    value: "https://maven.google.com/web/index.html?q=play-services-cloud-messaging#com.google.android.gms:play-services-cloud-messaging:16.0.0"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=play-services-task#com.google.android.gms:play-services-tasks:17.2.0"
+    value: "https://maven.google.com/web/index.html?q=play-services-tasks#com.google.android.gms:play-services-tasks:17.2.0"
   }
   url {
     type: ARCHIVE
-    value: "https://maven.google.com/web/index.html?q=transport-#com.google.android.datatransport:transport-api:2.2.1"
+    value: "https://maven.google.com/web/index.html?q=transport-api#com.google.android.datatransport:transport-api:2.2.1"
   }
   license_type: NOTICE
   last_upgrade_date {
