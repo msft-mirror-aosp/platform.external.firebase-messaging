@@ -73,7 +73,7 @@ android_library_import {
 
 android_library_import {
     name: "play-services-basement-aar",
-    aars: ["libs/play-services-basement-17.5.0.aar"],
+    aars: ["libs/play-services-basement-17.0.0.aar"],
     sdk_version: "system_current",
 }
 
@@ -85,18 +85,54 @@ android_library_import {
 
 android_library_import {
     name: "play-services-tasks-aar",
-    aars: ["libs/play-services-tasks-17.2.0.aar"],
+    aars: ["libs/play-services-tasks-17.0.0.aar"],
     sdk_version: "system_current",
 }
 
 android_library_import {
     name: "transport-api-aar",
-    aars: ["libs/transport-api-2.2.1.aar"],
+    aars: ["libs/transport-api-2.2.0.aar"],
     sdk_version: "system_current",
 }
 
 java_import {
     name: "firebase-encoders-jar",
     jars: ["libs/firebase-encoders-16.1.0.jar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "firebase-measurement-connector-aar",
+    aars: ["libs/firebase-measurement-connector-18.0.0.aar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "firebase-encoders-json-aar",
+    aars: ["libs/firebase-encoders-json-17.1.0.aar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "firebase-datatransport-aar",
+    aars: ["libs/firebase-datatransport-17.0.10.aar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "play-services-stats-aar",
+    aars: ["libs/play-services-stats-17.0.0.aar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "transport-runtime-aar",
+    aars: ["libs/transport-runtime-2.2.0.aar"],
+    sdk_version: "system_current",
+}
+
+android_library_import {
+    name: "transport-backend-cct-aar",
+    aars: ["libs/transport-backend-cct-2.3.3.aar"],
     sdk_version: "system_current",
 }
